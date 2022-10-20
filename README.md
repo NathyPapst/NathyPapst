@@ -53,3 +53,13 @@ Here are some ways that you can contact me! <br><br>
     <td align="center"><a href="https://apps.apple.com/br/app/catch-fly-the-escape/id1615619928">App Store</a></td>
     <td align="center"><a href="https://apps.apple.com/br/app/spixii-flashcards/id6443457347">App Store</a></td>
   </tr>
+</table>
+
+---
+### Statistics
+
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathyPapst&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NathyPapst&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
