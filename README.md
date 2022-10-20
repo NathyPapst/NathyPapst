@@ -18,11 +18,11 @@ Here are some ways that you can contact me! <br><br>
 ### My Apps
 <table align="center">
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/50211565/196816314-7a04379e-75c6-40dd-940d-41c6b692000a.png" height=80></td>
-    <td><img src="https://user-images.githubusercontent.com/50211565/196820758-db115159-2923-46b4-b699-cb131a940778.png" height=80></td>
-    <td><img src="https://user-images.githubusercontent.com/50211565/196822792-b007f0fb-9a18-48ef-88ae-51180c2511d7.png" height=80></td>
-    <td><img src="https://user-images.githubusercontent.com/50211565/196823276-8db459ac-3ad0-4282-9039-63ed3040d9ef.png" height=80></td>
-    <td><img src="https://user-images.githubusercontent.com/50211565/196827129-53a28fc7-53da-4459-aa69-cb4dbfe75e02.png" height=80></td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/50211565/196816314-7a04379e-75c6-40dd-940d-41c6b692000a.png" height=80></td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/50211565/196820758-db115159-2923-46b4-b699-cb131a940778.png" height=80></td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/50211565/196822792-b007f0fb-9a18-48ef-88ae-51180c2511d7.png" height=80></td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/50211565/196823276-8db459ac-3ad0-4282-9039-63ed3040d9ef.png" height=80></td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/50211565/196827129-53a28fc7-53da-4459-aa69-cb4dbfe75e02.png" height=80></td>
     <td align="center"><img src="https://user-images.githubusercontent.com/50211565/196827276-e1892993-731a-4840-8e54-36ec366d9faa.png" height=80></td>
     <td align="center"><img src="https://user-images.githubusercontent.com/50211565/196828502-ebade6ff-3b80-4597-a5e2-42ad31a2cc68.png" height=80></td>
   </tr>
