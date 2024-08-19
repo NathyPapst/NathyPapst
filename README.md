@@ -5,7 +5,7 @@
 
 ---
 ### About Me
-My name is Nathalia, I'm 22 years old, and I graduated on Computer Science at Mackenzie Presbyterian University. I've worked at Apple Developer Academy | Mackenzie for 2 years, and was able to develop 9 different apps! <br>
+My name is Nathalia, I'm 23 years old, and I graduated on Computer Science at Mackenzie Presbyterian University. I've worked at Apple Developer Academy | Mackenzie for 2 years, and was able to develop 9 different apps! <br>
 Here are some ways that you can contact me! <br><br>
 
 [<img src="https://user-images.githubusercontent.com/50211565/195244037-0392c546-8f0d-45f4-aa77-6f3f041cf9cf.png" width=42>](mailto:nathaliapapst@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
